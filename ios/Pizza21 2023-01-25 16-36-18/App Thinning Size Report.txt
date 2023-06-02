@@ -1,0 +1,204 @@
+
+App Thinning Size Report for All Variants of Pizza21
+
+Variant: Pizza21-065E666A-FE49-450B-91D8-5AD918B07DB9.ipa
+Supported variant descriptors: [device: iPhone9,3, os-version: 14.0], [device: iPhone9,1, os-version: 13.0], [device: iPhone10,1, os-version: 14.0], [device: iPhone9,3, os-version: 13.0], [device: iPhone12,8, os-version: 14.0], [device: iPhone10,4, os-version: 14.0], [device: iPhone12,8, os-version: 13.0], [device: iPhone10,1, os-version: 13.0], [device: iPhone9,1, os-version: 14.0], and [device: iPhone10,4, os-version: 13.0]
+App + On Demand Resources size: 6.3 MB compressed, 13.4 MB uncompressed
+App size: 6.3 MB compressed, 13.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Pizza21-09B4E0CD-72C2-4343-9E64-2BDA4E3FB6AE.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.0]
+App + On Demand Resources size: 8.8 MB compressed, 20.8 MB uncompressed
+App size: 8.8 MB compressed, 20.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Pizza21-0D7AE4CA-4BE0-45A0-AC33-438D63ABBA24.ipa
+Supported variant descriptors: [device: iPhone9,4, os-version: 12.2], [device: iPhone10,5, os-version: 12.2], [device: iPhone11,4, os-version: 12.2], [device: iPhone9,2, os-version: 12.2], [device: iPhone11,2, os-version: 12.2], [device: iPhone10,2, os-version: 12.2], [device: iPhone10,3, os-version: 12.2], [device: iPhone11,6, os-version: 12.2], and [device: iPhone10,6, os-version: 12.2]
+App + On Demand Resources size: 6.4 MB compressed, 13.5 MB uncompressed
+App size: 6.4 MB compressed, 13.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Pizza21-1252616A-B90F-454E-8E3A-37CBB19F5D65.ipa
+Supported variant descriptors: [device: iPad12,2, os-version: 15.0], [device: iPad11,6, os-version: 16.0], [device: iPad5,3, os-version: 15.0], [device: iPad5,1, os-version: 15.0], [device: iPad6,7, os-version: 15.0], [device: iPad6,11, os-version: 16.0], [device: iPad6,8, os-version: 16.0], [device: iPad7,11, os-version: 16.0], [device: iPad12,2, os-version: 16.0], [device: iPad5,4, os-version: 15.0], [device: iPad5,2, os-version: 15.0], [device: iPad7,11, os-version: 15.0], [device: iPad7,12, os-version: 16.0], [device: iPad7,5, os-version: 15.0], [device: iPad6,12, os-version: 16.0], [device: iPad6,11, os-version: 15.0], [device: iPad6,12, os-version: 15.0], [device: iPad7,6, os-version: 15.0], [device: iPad12,1, os-version: 15.0], [device: iPad6,8, os-version: 15.0], [device: iPad6,7, os-version: 16.0], [device: iPad7,6, os-version: 16.0], [device: iPad7,12, os-version: 15.0], [device: iPad11,7, os-version: 15.0], [device: iPad11,7, os-version: 16.0], [device: iPad11,6, os-version: 15.0], [device: iPad12,1, os-version: 16.0], and [device: iPad7,5, os-version: 16.0]
+App + On Demand Resources size: 6.3 MB compressed, 13.4 MB uncompressed
+App size: 6.3 MB compressed, 13.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Pizza21-2A3FE794-1DAE-4981-B5BD-342092A2D1CD.ipa
+Supported variant descriptors: [device: iPhone7,1, os-version: 11.0], [device: iPhone8,2, os-version: 12.0], [device: iPhone8,2, os-version: 11.0], and [device: iPhone7,1, os-version: 12.0]
+App + On Demand Resources size: 8.9 MB compressed, 20.9 MB uncompressed
+App size: 8.9 MB compressed, 20.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Pizza21-35C69900-4270-422A-815C-CA790178EA32.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 15.0]
+App + On Demand Resources size: 6.4 MB compressed, 13.5 MB uncompressed
+App size: 6.4 MB compressed, 13.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Pizza21-3777F2A2-0FCA-402E-9021-7EDC50101ECD.ipa
+Supported variant descriptors: [device: iPad8,9, os-version: 16.0], [device: iPad7,2, os-version: 15.0], [device: iPad13,2, os-version: 16.0], [device: iPad7,3, os-version: 16.0], [device: iPad8,6, os-version: 15.0], [device: iPad14,2, os-version: 16.0], [device: iPad7,4, os-version: 16.0], [device: iPad8,5, os-version: 16.0], [device: iPad8,10, os-version: 16.0], [device: iPad7,2, os-version: 16.0], [device: iPad14,1, os-version: 16.0], [device: iPad13,2, os-version: 15.0], [device: iPad8,9, os-version: 15.0], [device: iPad11,1, os-version: 15.0], [device: iPad8,7, os-version: 16.0], [device: iPad11,2, os-version: 15.0], [device: iPad11,1, os-version: 16.0], [device: iPad13,6, os-version: 15.0], [device: iPad13,5, os-version: 16.0], [device: iPad13,6, os-version: 16.0], [device: iPad13,8, os-version: 16.0], [device: iPad13,7, os-version: 15.0], [device: iPad11,4, os-version: 15.0], [device: iPad8,3, os-version: 16.0], [device: iPad8,1, os-version: 16.0], [device: iPad13,7, os-version: 16.0], [device: iPad8,3, os-version: 15.0], [device: iPad6,4, os-version: 16.0], [device: iPad14,2, os-version: 15.0], [device: iPad11,4, os-version: 16.0], [device: iPad6,3, os-version: 15.0], [device: iPad8,5, os-version: 15.0], [device: iPad7,1, os-version: 16.0], [device: iPad8,2, os-version: 16.0], [device: iPad13,16, os-version: 15.0], [device: iPad11,3, os-version: 15.0], [device: iPad8,8, os-version: 16.0], [device: iPad8,7, os-version: 15.0], [device: iPad7,4, os-version: 15.0], [device: iPad11,2, os-version: 16.0], [device: iPad8,8, os-version: 15.0], [device: iPad8,12, os-version: 16.0], [device: iPad8,4, os-version: 16.0], [device: iPad8,11, os-version: 16.0], [device: iPad13,17, os-version: 16.0], [device: iPad6,4, os-version: 15.0], [device: MacFamily20,1, os-version: 16.0], [device: iPad13,1, os-version: 16.0], [device: iPad13,9, os-version: 15.0], [device: iPad13,11, os-version: 16.0], [device: iPad13,11, os-version: 15.0], [device: iPad8,4, os-version: 15.0], [device: iPad8,12, os-version: 15.0], [device: iPad6,3, os-version: 16.0], [device: iPad7,1, os-version: 15.0], [device: iPad8,1, os-version: 15.0], [device: iPad13,1, os-version: 15.0], [device: iPad8,11, os-version: 15.0], [device: iPad7,3, os-version: 15.0], [device: iPad8,2, os-version: 15.0], [device: iPad14,1, os-version: 15.0], [device: iPad13,10, os-version: 15.0], [device: iPad13,17, os-version: 15.0], [device: iPad13,4, os-version: 15.0], [device: iPad13,8, os-version: 15.0], [device: iPad13,9, os-version: 16.0], [device: iPad11,3, os-version: 16.0], [device: iPad13,10, os-version: 16.0], [device: iPad13,5, os-version: 15.0], [device: iPad8,10, os-version: 15.0], [device: iPad8,6, os-version: 16.0], [device: iPad13,16, os-version: 16.0], [device: iPad13,4, os-version: 16.0], and [device: MacFamily20,1, os-version: 15.0]
+App + On Demand Resources size: 6.3 MB compressed, 13.4 MB uncompressed
+App size: 6.3 MB compressed, 13.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Pizza21-3B755192-686D-4BDE-B92E-C082656E9A50.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 13.0] and [device: iPhone8,2, os-version: 14.0]
+App + On Demand Resources size: 6.4 MB compressed, 13.5 MB uncompressed
+App size: 6.4 MB compressed, 13.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Pizza21-3C5FE2D1-B526-472D-8054-B8A8E67EC853.ipa
+Supported variant descriptors: [device: iPhone6,2, os-version: 12.2], [device: iPhone7,2, os-version: 12.2], [device: iPhone6,1, os-version: 12.2], [device: iPhone8,4, os-version: 12.2], [device: iPod9,1, os-version: 12.2], [device: iPod7,1, os-version: 12.2], and [device: iPhone8,1, os-version: 12.2]
+App + On Demand Resources size: 6.3 MB compressed, 13.4 MB uncompressed
+App size: 6.3 MB compressed, 13.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Pizza21-3CDBCC35-CC70-4CFF-9F23-47535967DD5C.ipa
+Supported variant descriptors: [device: iPad7,5, os-version: 12.0], [device: iPad5,4, os-version: 11.0], [device: iPad7,6, os-version: 11.0], [device: iPad4,9, os-version: 11.0], [device: iPad6,7, os-version: 11.0], [device: iPad5,3, os-version: 12.0], [device: iPad4,1, os-version: 12.0], [device: iPad4,4, os-version: 12.0], [device: iPad4,7, os-version: 11.0], [device: iPad4,5, os-version: 11.0], [device: iPad5,4, os-version: 12.0], [device: iPad4,8, os-version: 11.0], [device: iPad6,7, os-version: 12.0], [device: iPad4,6, os-version: 11.0], [device: iPad5,1, os-version: 11.0], [device: iPad7,5, os-version: 11.0], [device: iPad5,1, os-version: 12.0], [device: iPad6,11, os-version: 12.0], [device: iPad6,8, os-version: 11.0], [device: iPad4,3, os-version: 11.0], [device: iPad4,9, os-version: 12.0], [device: iPad6,8, os-version: 12.0], [device: iPad4,3, os-version: 12.0], [device: iPad4,2, os-version: 11.0], [device: iPad6,12, os-version: 11.0], [device: iPad6,11, os-version: 11.0], [device: iPad4,1, os-version: 11.0], [device: iPad4,7, os-version: 12.0], [device: iPad4,2, os-version: 12.0], [device: iPad5,2, os-version: 12.0], [device: iPad7,6, os-version: 12.0], [device: iPad5,2, os-version: 11.0], [device: iPad4,6, os-version: 12.0], [device: iPad4,5, os-version: 12.0], [device: iPad6,12, os-version: 12.0], [device: iPad4,8, os-version: 12.0], [device: iPad4,4, os-version: 11.0], and [device: iPad5,3, os-version: 11.0]
+App + On Demand Resources size: 8.8 MB compressed, 20.8 MB uncompressed
+App size: 8.8 MB compressed, 20.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Pizza21-3FDAB9D0-30EA-4E72-ACDD-39D43B712324.ipa
+Supported variant descriptors: [device: iPad5,2, os-version: 12.2], [device: iPad4,2, os-version: 12.2], [device: iPad4,1, os-version: 12.2], [device: iPad6,12, os-version: 12.2], [device: iPad4,3, os-version: 12.2], [device: iPad4,7, os-version: 12.2], [device: iPad4,4, os-version: 12.2], [device: iPad5,3, os-version: 12.2], [device: iPad4,6, os-version: 12.2], [device: iPad7,6, os-version: 12.2], [device: iPad6,11, os-version: 12.2], [device: iPad5,4, os-version: 12.2], [device: iPad4,9, os-version: 12.2], [device: iPad5,1, os-version: 12.2], [device: iPad4,8, os-version: 12.2], [device: iPad6,7, os-version: 12.2], [device: iPad4,5, os-version: 12.2], [device: iPad6,8, os-version: 12.2], and [device: iPad7,5, os-version: 12.2]
+App + On Demand Resources size: 6.3 MB compressed, 13.4 MB uncompressed
+App size: 6.3 MB compressed, 13.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Pizza21-434719C5-1BA2-40B8-ACB7-CF9FBF033170.ipa
+Supported variant descriptors: [device: iPhone10,1, os-version: 15.0], [device: iPhone10,4, os-version: 15.0], [device: iPhone9,1, os-version: 15.0], [device: iPhone9,3, os-version: 15.0], [device: iPhone12,8, os-version: 16.0], [device: iPhone12,8, os-version: 15.0], [device: iPhone10,4, os-version: 16.0], [device: iPhone14,6, os-version: 15.0], [device: iPhone10,1, os-version: 16.0], and [device: iPhone14,6, os-version: 16.0]
+App + On Demand Resources size: 6.3 MB compressed, 13.4 MB uncompressed
+App size: 6.3 MB compressed, 13.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Pizza21-49942166-9B9F-40B9-B686-12FBA25586A0.ipa
+Supported variant descriptors: [device: iPad7,1, os-version: 12.2], [device: iPad8,1, os-version: 12.2], [device: iPad8,3, os-version: 12.2], [device: iPad8,7, os-version: 12.2], [device: iPad7,4, os-version: 12.2], [device: iPad8,2, os-version: 12.2], [device: iPad6,4, os-version: 12.2], [device: iPad11,3, os-version: 12.2], [device: iPad6,3, os-version: 12.2], [device: iPad11,1, os-version: 12.2], [device: iPad8,5, os-version: 12.2], [device: iPad11,2, os-version: 12.2], [device: iPad7,3, os-version: 12.2], [device: iPad8,4, os-version: 12.2], [device: iPad8,6, os-version: 12.2], [device: iPad8,8, os-version: 12.2], [device: iPad11,4, os-version: 12.2], and [device: iPad7,2, os-version: 12.2]
+App + On Demand Resources size: 6.3 MB compressed, 13.4 MB uncompressed
+App size: 6.3 MB compressed, 13.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Pizza21-4EEF7A46-C5DD-44DB-A480-F0A5FE881171.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.2]
+App + On Demand Resources size: 6.4 MB compressed, 13.4 MB uncompressed
+App size: 6.4 MB compressed, 13.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Pizza21-65B71FF1-D383-4897-8584-663191878CB0.ipa
+Supported variant descriptors: [device: iPhone8,4, os-version: 13.0], [device: iPhone8,4, os-version: 14.0], [device: iPhone8,1, os-version: 13.0], [device: iPhone8,1, os-version: 14.0], [device: iPod9,1, os-version: 13.0], and [device: iPod9,1, os-version: 14.0]
+App + On Demand Resources size: 6.3 MB compressed, 13.4 MB uncompressed
+App size: 6.3 MB compressed, 13.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Pizza21-662576E1-F9F0-4DC7-B574-AFD0E7568846.ipa
+Supported variant descriptors: [device: iPhone11,4, os-version: 16.0], [device: iPhone12,3, os-version: 15.0], [device: iPhone13,2, os-version: 15.0], [device: iPhone10,2, os-version: 16.0], [device: iPhone13,3, os-version: 15.0], [device: iPhone12,3, os-version: 16.0], [device: iPhone10,2, os-version: 15.0], [device: iPhone11,4, os-version: 15.0], [device: iPhone9,4, os-version: 15.0], [device: iPhone13,2, os-version: 16.0], [device: iPhone14,3, os-version: 16.0], [device: iPhone10,5, os-version: 15.0], [device: iPhone14,5, os-version: 16.0], [device: iPhone11,2, os-version: 16.0], [device: iPhone13,3, os-version: 16.0], [device: iPhone11,6, os-version: 15.0], [device: iPhone14,7, os-version: 16.0], [device: iPhone14,8, os-version: 16.0], [device: iPhone14,4, os-version: 16.0], [device: iPhone11,2, os-version: 15.0], [device: iPhone12,5, os-version: 15.0], [device: iPhone14,2, os-version: 15.0], [device: iPhone14,3, os-version: 15.0], [device: iPhone10,3, os-version: 16.0], [device: iPhone14,2, os-version: 16.0], [device: iPhone10,5, os-version: 16.0], [device: iPhone13,1, os-version: 15.0], [device: iPhone13,4, os-version: 15.0], [device: iPhone10,6, os-version: 16.0], [device: iPhone9,2, os-version: 15.0], [device: iPhone12,5, os-version: 16.0], [device: iPhone13,4, os-version: 16.0], [device: iPhone14,4, os-version: 15.0], [device: iPhone11,6, os-version: 16.0], [device: iPhone15,2, os-version: 16.0], [device: iPhone14,5, os-version: 15.0], [device: iPhone10,3, os-version: 15.0], [device: iPhone13,1, os-version: 16.0], [device: iPhone15,3, os-version: 16.0], and [device: iPhone10,6, os-version: 15.0]
+App + On Demand Resources size: 6.4 MB compressed, 13.5 MB uncompressed
+App size: 6.4 MB compressed, 13.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Pizza21-8584E6E9-773F-4A56-86B4-10E2466AE5B4.ipa
+Supported variant descriptors: [device: iPad6,4, os-version: 13.0], [device: iPad13,11, os-version: 14.0], [device: iPad8,5, os-version: 14.0], [device: iPad8,7, os-version: 14.0], [device: iPad11,4, os-version: 13.0], [device: iPad8,8, os-version: 13.0], [device: iPad6,3, os-version: 14.0], [device: iPad6,3, os-version: 13.0], [device: iPad8,12, os-version: 14.0], [device: iPad7,3, os-version: 14.0], [device: iPad8,4, os-version: 14.0], [device: iPad7,4, os-version: 14.0], [device: iPad8,2, os-version: 13.0], [device: iPad13,6, os-version: 14.0], [device: iPad8,12, os-version: 13.0], [device: iPad7,3, os-version: 13.0], [device: iPad8,3, os-version: 14.0], [device: iPad8,10, os-version: 14.0], [device: iPad11,3, os-version: 14.0], [device: iPad6,4, os-version: 14.0], [device: iPad8,2, os-version: 14.0], [device: iPad8,10, os-version: 13.0], [device: iPad8,5, os-version: 13.0], [device: iPad8,6, os-version: 13.0], [device: iPad13,7, os-version: 14.0], [device: iPad8,11, os-version: 13.0], [device: iPad13,5, os-version: 14.0], [device: iPad7,2, os-version: 13.0], [device: iPad7,1, os-version: 13.0], [device: MacFamily20,1, os-version: 14.0], [device: iPad13,1, os-version: 14.0], [device: iPad8,8, os-version: 14.0], [device: iPad7,4, os-version: 13.0], [device: iPad11,4, os-version: 14.0], [device: iPad8,3, os-version: 13.0], [device: iPad13,9, os-version: 14.0], [device: iPad13,4, os-version: 14.0], [device: iPad8,1, os-version: 14.0], [device: iPad8,9, os-version: 13.0], [device: iPad13,8, os-version: 14.0], [device: iPad8,6, os-version: 14.0], [device: iPad11,2, os-version: 14.0], [device: iPad8,7, os-version: 13.0], [device: iPad13,2, os-version: 14.0], [device: iPad8,11, os-version: 14.0], [device: iPad13,10, os-version: 14.0], [device: iPad7,1, os-version: 14.0], [device: iPad11,2, os-version: 13.0], [device: iPad11,1, os-version: 14.0], [device: iPad8,9, os-version: 14.0], [device: iPad8,4, os-version: 13.0], [device: iPad11,1, os-version: 13.0], [device: iPad11,3, os-version: 13.0], [device: iPad7,2, os-version: 14.0], and [device: iPad8,1, os-version: 13.0]
+App + On Demand Resources size: 6.3 MB compressed, 13.4 MB uncompressed
+App size: 6.3 MB compressed, 13.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Pizza21-8F46A881-EE00-49BE-B8F7-F33BF1C8A40D.ipa
+Supported variant descriptors: [device: iPhone10,5, os-version: 11.0], [device: iPhone10,3, os-version: 11.0], [device: iPhone10,2, os-version: 12.0], [device: iPhone10,6, os-version: 11.0], [device: iPhone11,4, os-version: 12.0], [device: iPhone9,2, os-version: 12.0], [device: iPhone9,4, os-version: 12.0], [device: iPhone10,6, os-version: 12.0], [device: iPhone11,6, os-version: 12.0], [device: iPhone10,2, os-version: 11.0], [device: iPhone9,4, os-version: 11.0], [device: iPhone10,3, os-version: 12.0], [device: iPhone11,2, os-version: 12.0], [device: iPhone9,2, os-version: 11.0], and [device: iPhone10,5, os-version: 12.0]
+App + On Demand Resources size: 8.9 MB compressed, 20.9 MB uncompressed
+App size: 8.9 MB compressed, 20.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Pizza21-95785E7F-F3C6-4675-BA35-E7CD2FBD8433.ipa
+Supported variant descriptors: [device: iPhone12,1, os-version: 13.0], [device: iPhone11,8, os-version: 13.0], [device: iPhone11,8, os-version: 14.0], and [device: iPhone12,1, os-version: 14.0]
+App + On Demand Resources size: 6.4 MB compressed, 13.4 MB uncompressed
+App size: 6.4 MB compressed, 13.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Pizza21-B31D3963-7D4A-445F-ACAB-B4227FA45F95.ipa
+Supported variant descriptors: [device: iPhone9,1, os-version: 12.0], [device: iPhone9,3, os-version: 12.0], [device: iPhone10,4, os-version: 12.0], [device: iPhone10,4, os-version: 11.0], [device: iPhone10,1, os-version: 12.0], [device: iPhone9,3, os-version: 11.0], [device: iPhone10,1, os-version: 11.0], and [device: iPhone9,1, os-version: 11.0]
+App + On Demand Resources size: 8.8 MB compressed, 20.8 MB uncompressed
+App size: 8.8 MB compressed, 20.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Pizza21-CCE2A680-19A6-4B7F-8D35-1DD54947D9D7.ipa
+Supported variant descriptors: [device: iPhone10,1, os-version: 12.2], [device: iPhone9,3, os-version: 12.2], [device: iPhone9,1, os-version: 12.2], and [device: iPhone10,4, os-version: 12.2]
+App + On Demand Resources size: 6.3 MB compressed, 13.4 MB uncompressed
+App size: 6.3 MB compressed, 13.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Pizza21-D24EE24F-23FD-4EB2-90C5-5C4AA5A51557.ipa
+Supported variant descriptors: [device: iPhone7,1, os-version: 12.2] and [device: iPhone8,2, os-version: 12.2]
+App + On Demand Resources size: 6.4 MB compressed, 13.5 MB uncompressed
+App size: 6.4 MB compressed, 13.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Pizza21-DAC6CF88-F1EB-4996-9328-3EC867D0ABA6.ipa
+Supported variant descriptors: [device: iPhone8,1, os-version: 15.0], [device: iPhone8,4, os-version: 15.0], and [device: iPod9,1, os-version: 15.0]
+App + On Demand Resources size: 6.3 MB compressed, 13.4 MB uncompressed
+App size: 6.3 MB compressed, 13.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Pizza21-E5CB5D29-50A6-4BC7-8613-C0CE90AF0AC7.ipa
+Supported variant descriptors: [device: iPad8,3, os-version: 12.0], [device: iPad8,8, os-version: 12.0], [device: iPad8,4, os-version: 12.0], [device: iPad8,6, os-version: 12.0], [device: iPad8,5, os-version: 12.0], [device: iPad6,4, os-version: 11.0], [device: iPad8,1, os-version: 12.0], [device: iPad8,2, os-version: 12.0], [device: iPad7,1, os-version: 11.0], [device: iPad6,3, os-version: 11.0], [device: iPad7,1, os-version: 12.0], [device: iPad7,3, os-version: 12.0], [device: iPad7,4, os-version: 12.0], [device: iPad7,2, os-version: 12.0], [device: iPad8,7, os-version: 12.0], [device: iPad6,3, os-version: 12.0], [device: iPad7,3, os-version: 11.0], [device: iPad7,2, os-version: 11.0], [device: iPad6,4, os-version: 12.0], and [device: iPad7,4, os-version: 11.0]
+App + On Demand Resources size: 8.8 MB compressed, 20.8 MB uncompressed
+App size: 8.8 MB compressed, 20.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Pizza21-EA60B69C-E888-4E31-8C58-8F25CD7E5CF7.ipa
+Supported variant descriptors: [device: iPad6,8, os-version: 13.0], [device: iPad6,12, os-version: 14.0], [device: iPad11,7, os-version: 14.0], [device: iPad5,1, os-version: 13.0], [device: iPad5,4, os-version: 14.0], [device: iPad7,11, os-version: 13.0], [device: iPad7,6, os-version: 14.0], [device: iPad6,12, os-version: 13.0], [device: iPad6,11, os-version: 14.0], [device: iPad7,12, os-version: 14.0], [device: iPad5,3, os-version: 13.0], [device: iPad5,3, os-version: 14.0], [device: iPad5,4, os-version: 13.0], [device: iPad6,8, os-version: 14.0], [device: iPad5,1, os-version: 14.0], [device: iPad7,5, os-version: 14.0], [device: iPad5,2, os-version: 14.0], [device: iPad6,11, os-version: 13.0], [device: iPad7,5, os-version: 13.0], [device: iPad6,7, os-version: 13.0], [device: iPad7,12, os-version: 13.0], [device: iPad5,2, os-version: 13.0], [device: iPad7,11, os-version: 14.0], [device: iPad7,6, os-version: 13.0], [device: iPad6,7, os-version: 14.0], and [device: iPad11,6, os-version: 14.0]
+App + On Demand Resources size: 6.3 MB compressed, 13.4 MB uncompressed
+App size: 6.3 MB compressed, 13.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Pizza21-EC84F6C8-8C2E-42EA-86C2-FD816CBEE105.ipa
+Supported variant descriptors: [device: iPhone8,4, os-version: 11.0], [device: iPod7,1, os-version: 11.0], [device: iPhone6,2, os-version: 11.0], [device: iPhone6,1, os-version: 12.0], [device: iPhone7,2, os-version: 12.0], [device: iPod7,1, os-version: 12.0], [device: iPhone6,1, os-version: 11.0], [device: iPhone8,1, os-version: 12.0], [device: iPhone6,2, os-version: 12.0], [device: iPhone8,4, os-version: 12.0], [device: iPhone8,1, os-version: 11.0], and [device: iPhone7,2, os-version: 11.0]
+App + On Demand Resources size: 8.8 MB compressed, 20.8 MB uncompressed
+App size: 8.8 MB compressed, 20.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Pizza21-EE9EEFE4-5FBA-47F9-9429-E90A97C031C2.ipa
+Supported variant descriptors: [device: iPhone10,3, os-version: 13.0], [device: iPhone11,6, os-version: 13.0], [device: iPhone12,3, os-version: 14.0], [device: iPhone13,2, os-version: 14.0], [device: iPhone12,5, os-version: 13.0], [device: iPhone11,4, os-version: 14.0], [device: iPhone9,4, os-version: 13.0], [device: iPhone11,2, os-version: 13.0], [device: iPhone10,6, os-version: 13.0], [device: iPhone13,3, os-version: 14.0], [device: iPhone10,5, os-version: 14.0], [device: iPhone11,4, os-version: 13.0], [device: iPhone9,2, os-version: 13.0], [device: iPhone12,5, os-version: 14.0], [device: iPhone10,3, os-version: 14.0], [device: iPhone13,4, os-version: 14.0], [device: iPhone11,2, os-version: 14.0], [device: iPhone13,1, os-version: 14.0], [device: iPhone11,6, os-version: 14.0], [device: iPhone10,2, os-version: 14.0], [device: iPhone10,5, os-version: 13.0], [device: iPhone9,4, os-version: 14.0], [device: iPhone12,3, os-version: 13.0], [device: iPhone10,2, os-version: 13.0], [device: iPhone10,6, os-version: 14.0], and [device: iPhone9,2, os-version: 14.0]
+App + On Demand Resources size: 6.4 MB compressed, 13.5 MB uncompressed
+App size: 6.4 MB compressed, 13.5 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Pizza21-FE8611CD-3665-4C30-94AD-84360154212B.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 15.0], [device: iPhone12,1, os-version: 15.0], [device: iPhone12,1, os-version: 16.0], and [device: iPhone11,8, os-version: 16.0]
+App + On Demand Resources size: 6.4 MB compressed, 13.4 MB uncompressed
+App size: 6.4 MB compressed, 13.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Pizza21.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 16.7 MB compressed, 43.8 MB uncompressed
+App size: 16.7 MB compressed, 43.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
